@@ -1,5 +1,9 @@
+# B4M: Breaking Low-Rank Adapter for Making Content-Style Customization [ACM TOG 2025]
 
-# B4M: Breaking Low-Rank Adapter for Making Content-Style Customization
+> **B4M: Breaking Low-Rank Adapter for Making Content-Style Customization**<br>
+> Yu Xu<sup>1,2</sup>, Fan Tang<sup>1</sup>, Juan Cao<sup>1</sup>, Yuxin Zhang<sup>3</sup>, Oliver Deussen<sup>4</sup>, Weiming Dong<sup>3</sup>, Jintao Li<sup>1</sup>, Tong-Yee Lee<sup>5</sup> <br>
+> <sup>1</sup>Institute of Computing Technology, Chinese Academy of Sciences, <sup>2</sup>University of Chinese Academy of Sciences, <sup>3</sup> Institute of Automation, Chinese Academy of Sciences, <sup>4</sup>University of Konstanz, <sup>5</sup>National Cheng Kung University
+
 
 ![](assets/teaser.png)
 
