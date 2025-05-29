@@ -21,10 +21,14 @@
 If you make use of our work, please cite our paper:
 
 ```
-@article{xu2024break,
-  title={Break-for-make: Modular low-rank adaptations for composable content-style customization},
+@article{xu2025b4m,
+  title={B4M: Breaking Low-Rank Adapter for Making Content-Style Customization},
   author={Xu, Yu and Tang, Fan and Cao, Juan and Zhang, Yuxin and Deussen, Oliver and Dong, Weiming and Li, Jintao and Lee, Tong-Yee},
-  journal={arXiv preprint arXiv:2403.19456},
-  year={2024}
+  journal={ACM Transactions on Graphics},
+  volume={44},
+  number={2},
+  pages={1--17},
+  year={2025},
+  publisher={ACM New York, NY}
 }
 ```
