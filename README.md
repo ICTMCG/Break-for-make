@@ -81,7 +81,7 @@ Make sure to configure the model path and input settings inside the script as ne
 
 Some checkpoints are hosted on Google Drive due to file size limitations on GitHub. You can download them here:
 
-**[Download Checkpoints from Google Drive]([GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/1xlJyheBInkt26zDdlgh8mwrOMxtZkjvK?usp=sharing))**
+**[Download Checkpoints from Google Drive](https://drive.google.com/drive/folders/1xlJyheBInkt26zDdlgh8mwrOMxtZkjvK?usp=sharing)**
 
 ## Contents
 
