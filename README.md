@@ -26,6 +26,7 @@ Our code is built on Huggingface Diffusers (0.22.0), please follow [sdxl](https:
 
 
 ### Install B4M
+First clone this repo, and then
 ```bash
 cd B4M
 pip install -e .
