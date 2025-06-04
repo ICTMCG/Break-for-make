@@ -1,0 +1,25 @@
+accelerate launch train_style.py \
+  --pretrained_model_name_or_path="path_to_sdxl/stable-diffusion-xl-base-1.0/stable-diffusion-xl-base-1.0"  \
+  --instance_data_dir="path_to_style" \
+  --instance_data_dir_2="path_to_content_1" \
+  --instance_data_dir_3="path_to_content_2" \
+  --instance_data_dir_4="path_to_content_3" \
+  --pretrained_vae_model_name_or_path="path_to_vae/stable-diffusion-xl-base-1.0/sdxl-vae-fp16-fix" \
+  --output_dir="output_path" \
+  --instance_prompt="Prompt to describe the style. e.g. A woman walking a dog in w@z flat cartoon illustration style" \
+  --instance_prompt_2="Prompt to describe the content_1. e.g. A photo of snq teapot" \
+  --instance_prompt_3="Prompt to describe the content_2. e.g. A photo of snq perfume" \
+  --instance_prompt_4="Prompt to describe the content_3. e.g. A photo of snq vase" \
+  --resolution=512 \
+  --rank=64 \
+  --train_batch_size=1 \
+  --gradient_accumulation_steps=4 \
+  --learning_rate_2=1e-5 \
+  --learning_rate=1e-4 \
+  --report_to="tensorboard" \
+  --lr_scheduler="constant" \
+  --lr_warmup_steps=0 \
+  --max_train_steps=1000\
+  --seed="0" \
+  --checkpointing_steps=100 \
+  --multi_style
