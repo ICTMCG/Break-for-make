@@ -77,6 +77,22 @@ python infer.py
 Make sure to configure the model path and input settings inside the script as needed.
 
 
+## Checkpoints
+
+Some checkpoints are hosted on Google Drive due to file size limitations on GitHub. You can download them here:
+
+**[Download Checkpoints from Google Drive]([<GOOGLE_DRIVE_LINK>](https://drive.google.com/drive/folders/1xlJyheBInkt26zDdlgh8mwrOMxtZkjvK?usp=sharing))**
+
+## Contents
+
+| Content Reference | Style Reference  | Prompt Checkpoint                                              | Checkpoint           |
+|-------------------|------------------|----------------------------------------------------------------|----------------------|
+| teddybear.jpg     | paper.jpg        | "an image of snq teddybear made from paper cutout art style"   | teddybear_paper      |
+
+
+
+
+
 ## TODO List
 
 - [x] Open source the code  
