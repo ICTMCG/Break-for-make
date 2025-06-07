@@ -88,6 +88,7 @@ Some checkpoints are hosted on Google Drive due to file size limitations on GitH
 | Content Reference | Style Reference  | Prompt Checkpoint                                              | Checkpoint           |
 |-------------------|------------------|----------------------------------------------------------------|----------------------|
 | teddybear.jpg     | paper.jpg        | "an image of snq teddybear made from paper cutout art style"   | teddybear_paper      |
+| teddybear.jpg     | yarn.jpg         | "an image of snq teddybear in w@z yarn art style"              | teddybear_yarn       |
 
 
 
