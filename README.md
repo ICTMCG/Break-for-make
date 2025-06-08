@@ -77,28 +77,22 @@ python infer.py
 Make sure to configure the model path and input settings inside the script as needed.
 
 
-## Checkpoints
+## LoRA Corresponding to Examples Shown in the Paper
 
-Some checkpoints are hosted on Google Drive due to file size limitations on GitHub. You can download them here:
+We provide LoRA checkpoints that correspond to the examples presented in the paper. You can download them here:
 
-**[Download Checkpoints from Google Drive](https://drive.google.com/drive/folders/1xlJyheBInkt26zDdlgh8mwrOMxtZkjvK?usp=sharing)**
+**[Download LoRA Checkpoints from Google Drive](https://drive.google.com/drive/folders/1xlJyheBInkt26zDdlgh8mwrOMxtZkjvK?usp=sharing)**
 
-## Contents
+The corresponding reference images, prompts, and checkpoints are as follows: 
 
-| Content Reference | Style Reference  | Prompt Checkpoint                                              | Checkpoint           |
+| Content Reference | Style Reference  | Prompt                                                         | LoRA Checkpoint      |
 |-------------------|------------------|----------------------------------------------------------------|----------------------|
 | teddybear.jpg     | paper.jpg        | "an image of snq teddybear made from paper cutout art style"   | teddybear_paper      |
 | teddybear.jpg     | yarn.jpg         | "an image of snq teddybear in w@z yarn art style"              | teddybear_yarn       |
 | dog_1.jpg         | sticker.jpg      | "a snq dog in w@z sticker style"                               | dog_1_sticker        |
 
 
-
-
-
-## TODO List
-
-- [x] Open source the code  
-- [ ] Upload the checkpoints used in the paper examples  
+We are continuously uploading additional model checkpoints. Please stay tuned.
 
 
 
