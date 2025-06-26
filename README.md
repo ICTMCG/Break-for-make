@@ -109,6 +109,7 @@ If you make use of our work, please cite our paper:
   number={2},
   pages={1--17},
   year={2025},
-  publisher={ACM New York, NY}
+  publisher={ACM New York, NY},
+  doi={10.1145/3728461}
 }
 ```
