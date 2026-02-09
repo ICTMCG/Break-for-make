@@ -8,6 +8,8 @@
 ![](assets/teaser.png)
 
 <a href='https://arxiv.org/abs/2403.19456'><img src='https://img.shields.io/badge/ArXiv-2403.19456-red'></a> 
+<a href='https://dl.acm.org/doi/pdf/10.1145/3728461'><img src='https://img.shields.io/badge/ACM%20TOG-2025-blue'></a>
+<a href='https://yuci-gpt.github.io/B4M/'><img src='https://img.shields.io/badge/Project%20Page-Homepage-green'></a>
 
 
 >**Abstract**: <br>
